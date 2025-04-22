@@ -1,0 +1,12 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Has a fast runtime for the sorted files.
+
+sort2 uses: Merge Sort
+
+How do you know?: It's faster in all the datasets.
+
+sort3 uses: Selection Sort
+
+How do you know?: It performs poorly on all three
+yes
