@@ -1,0 +1,52 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #f0f4ff, #eaf6ff);
+    min-height: 100vh;
+    padding-top: 30px;
+}
+
+.card {
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    border: none;
+}
+
+h1 {
+    color: #2c3e50;
+}
+
+h4 {
+    color: #34495e;
+}
+
+.btn-primary {
+    background-color: #5b6ef5;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #3f51e1;
+}
+
+.btn-success {
+    background-color: #30b27b;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #28a06f;
+}
+
+#study-plan-output h5 {
+    color: #2d3436;
+    margin-bottom: 0.5rem;
+}
+
+#study-plan-output ul {
+    padding-left: 1.2rem;
+    margin-top: 0;
+}
+
+#study-plan-output li {
+    margin-bottom: 0.3rem;
+}
