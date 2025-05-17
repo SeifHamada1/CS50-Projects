@@ -1,0 +1,7 @@
+type,category,amount,date
+income,Income,100.0,2025-05-17
+expense,food,13.99,2006-05-16
+expense,rent,76.83,2025-05-17
+income,Income,500.0,2025-05-01
+expense,bills,99.99,2025-05-02
+expense,bills,190.99,2025-05-17
